@@ -3,7 +3,7 @@ Android Application
 
 ![This is an image](ic_launcher.png)
 
-Policy Document Number 01
+Policy Document Number: 01
 Last Updated: 01/03/2024
 
 # Privacy Policy for Mobile Application
@@ -34,7 +34,7 @@ No. Abandroid Cam does not collect precise information about the location of you
 No. Even aggregated, anonymized data is not periodically transmitted to external services.
 
 ## Changes
-This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. We will also change the “Document Number” at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this number and replace any prior Privacy Policies. You can check the history of this policy by clicking [here](https://drive.google.com/drive/folders/12TLZBf6Y7g59wb6LmjXfheGmBPZI_ARk?usp=drive_link).
+This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. We will also change the “Policy Document Number” at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this number and replace any prior Privacy Policies. You can check the history of this policy by clicking [here](https://drive.google.com/drive/folders/12TLZBf6Y7g59wb6LmjXfheGmBPZI_ARk?usp=drive_link).
 
 ## Contact us
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at mobile.toys.tools@gmail.com.
